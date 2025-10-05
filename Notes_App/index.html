@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notes App</title>
+    <link rel="stylesheet" href="Style/style.css">
+    <link rel="icon" type="image/png" href="assets/img/arcticons--materialnotes.png">
+</head>
+<body>
+    <div class="container">
+        <app-bar title="Notes App" subtitle="Kelola catatan Anda dengan mudah"></app-bar>
+
+        <div class="content-wrapper">
+            <div class="form-section">
+                <h2>✏️Tambah Catatan Baru</h2>
+                <note-form></note-form>
+            </div>
+
+            <div class="note-section">
+                <h2>📝Daftar Catatan</h2>
+                <notes-list></notes-list>
+            </div>
+        </div>
+    </div>
+
+    <script src="Script/script.js"></script>
+</body>
+</html>
