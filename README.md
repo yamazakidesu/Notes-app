@@ -1,2 +1,2 @@
 # Notes-app
-Note Orginize app
+A minimalist and responsive web-based note-taking application designed for efficient organization and productivity. The app allows users to create, edit, and delete notes seamlessly while maintaining a clean and distraction-free interface inspired by Notion’s aesthetic. Built using modern web technologies such as HTML, CSS, and JavaScript, the application emphasizes simplicity, accessibility, and a smooth user experience across all devices.
